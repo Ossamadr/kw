@@ -17,6 +17,7 @@ input {
     width: 100%;
     font-size: 18px;
     pointer-events: none;
+    background: #ffffff;
 }
 #inpKu {
     pointer-events: all;
@@ -30,4 +31,5 @@ button {
     background: #28630c;
     color: white;
     cursor: pointer;
+    border: none;
 }
